@@ -1,0 +1,7 @@
+{
+  "name": "dave-tabs-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
